@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings (optional, helpful for consistency)
+.vscode/
+
+# macOS system files (if editing on Mac)
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage / test outputs
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
